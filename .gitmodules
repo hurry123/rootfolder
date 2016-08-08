@@ -1,0 +1,3 @@
+[submodule "hpom"]
+	path = hpom
+	url = https://github.com/hurry123/rootfolder.git
