@@ -1,3 +1,6 @@
 [submodule "hpom"]
 	path = hpom
 	url = https://github.com/hurry123/rootfolder.git
+[submodule "hpsa"]
+	path = hpsa
+	url = https://github.com/hurry123/rootfolder.git
